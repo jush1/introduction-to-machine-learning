@@ -1,0 +1,1 @@
+This is a repository for the introduction to Machine Learning Project. The aim of the project is to develop a predictive HR analytics model that can determine whether a potential promotee will be promoted or not. 
